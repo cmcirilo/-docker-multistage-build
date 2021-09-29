@@ -9,7 +9,7 @@ This article teaches you how to multistage build image using Go app.
 - Clone the repository:
 
 ```sh
-git clone https://github.com/cmcirilo/docker-build-image-with-args.git
+git clone https://github.com/cmcirilo/docker-multistage-build.git
 ```
 
 ### Docker commands
